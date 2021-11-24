@@ -16,7 +16,7 @@ _Please write your answer immediately below the level-3 headers and delete the g
 
 ### 1. Who collected the data?
 
-#### 25 words; 2 points; Consider the source of the data and its relation to the underlying data generating process.
+#### Many people are using Airbnb to rent out their homes. Airbnb is collecting information about its users' habits and preferences. The Airbnb data collected of London is sourced from their website. 
 
 ---
 
